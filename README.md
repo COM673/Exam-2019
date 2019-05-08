@@ -1,7 +1,9 @@
 ## COM673 final exam 2019
 
 ### Exam details
-see: https://github.com/COM673/2019-Exam-Preparation/blob/master/SampleExam2019.pdf
+https://github.com/COM673/Exam-2019/blob/master/COM673-Exam2019.pdf
+
+##### Sample data: https://github.com/COM673/Exam-2019/blob/master/sampleData.sql
 
 ###Exam submission will be via GitHub Classroom
 
