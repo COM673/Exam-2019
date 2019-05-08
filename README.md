@@ -11,7 +11,7 @@ https://github.com/COM673/Exam-2019/blob/master/COM673-Exam2019.pdf
 https://github.com/COM673/2019-Exam-Preparation/blob/master/GitHubClassroomGuide.pdf
 
 #### Create your exam repository using this GitHub Classroom URL
-https://classroom.github.com/a/28ilUXM1
+https://classroom.github.com/a/bBzOkHj_
 
 
 
