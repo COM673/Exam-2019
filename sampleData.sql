@@ -1,12 +1,12 @@
-insert into Category (CatgoryId, CategoryName) values (1,'Biography');
-insert into Category (CatgoryId, CategoryName) values (2,'Business');
-insert into Category (CatgoryId, CategoryName) values (3,'Computing');
-insert into Category (CatgoryId, CategoryName) values (4,'Fiction');
-insert into Category (CatgoryId, CategoryName) values (5,'History');
-insert into Category (CatgoryId, CategoryName) values (6,'Humour');
-insert into Category (CatgoryId, CategoryName) values (7,'School');
-insert into Category (CatgoryId, CategoryName) values (8,'Science and Nature');
-insert into Category (CatgoryId, CategoryName) values (9,'Sport');
+insert into Category (CategoryId, CategoryName) values (1,'Biography');
+insert into Category (CategoryId, CategoryName) values (2,'Business');
+insert into Category (CategoryId, CategoryName) values (3,'Computing');
+insert into Category (CategoryId, CategoryName) values (4,'Fiction');
+insert into Category (CategoryId, CategoryName) values (5,'History');
+insert into Category (CategoryId, CategoryName) values (6,'Humour');
+insert into Category (CategoryId, CategoryName) values (7,'School');
+insert into Category (CategoryId, CategoryName) values (8,'Science and Nature');
+insert into Category (CategoryId, CategoryName) values (9,'Sport');
 
 
 insert into Book (BookId, CategoryId, ISBN, Title, Author, Description, Publisher, Edition, Year, Stock, Price) values (1, 4, '504107667-7', 'Face to face composite functionalities', 'Deb Fawdrie', 'morbi non lectus aliquam sit amet diam in magna', 'Conroy, Medhurst and Schaefer', 3, 1998, 96, 56.69);
